@@ -17,3 +17,4 @@ In singleplayer, the player is always X and the computer is always O.
 * a board with lines designating different board slots
 * a counter for the wins of each letter
 * ability to replay the game when it is over
+* ability to pick what game mode you want to play
